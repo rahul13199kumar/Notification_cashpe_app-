@@ -1,6 +1,6 @@
 # Description 
 
-This a demo app for notification alert for android devices.
+This a demo app for notification alert for android devices.A notification is a message that Android displays outside the app's UI to provide the user with reminders, communication from other people, or other timely information from your app. Users can tap the notification to open your app or take an action directly from the notification
 
 
 # screenshots
